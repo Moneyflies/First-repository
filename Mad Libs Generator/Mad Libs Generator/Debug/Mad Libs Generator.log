@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Repository\Mad Libs Generator\Mad Libs Generator\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Repository\Mad Libs Generator\Mad Libs Generator\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Repository\Mad Libs Generator\Mad Libs Generator\Source.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Mad Libs Generator.vcxproj -> D:\Repository\Mad Libs Generator\Debug\Mad Libs Generator.exe
